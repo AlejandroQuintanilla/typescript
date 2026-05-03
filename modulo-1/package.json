@@ -1,0 +1,13 @@
+{
+    "name": "modulo-1",
+    "version": "1.0.0",
+    "scripts": {
+      "dev": "npx tsx src/index.ts",
+      "build": "npx tsc",
+      "check": "npx tsc --noEmit"
+    },
+    "devDependencies": {
+      "typescript": "^5.4.0",
+      "tsx": "^4.7.0"
+    }
+  }
